@@ -6,6 +6,4 @@ redirect_from:
   - /about.html
 ---
 
-Front page
-
-See projects.
+Work in progress
