@@ -11,9 +11,6 @@ redirect_from:
 Curriculum Vitae
 ======
 
-General info
-------
-
 Name: Thijmen Schoonbeek <br>
 Date of birth: 17-06-2000 <br>
 Nationality: Nederlands
@@ -28,13 +25,19 @@ Education
 ======
 
 > <b>2020 – 2025: Bachelors HBO-ICT, Software Development (completed)</b> <br>
-              HAN Nijmegen
+              HAN University of Applied Sciences, Nijmegen
+
+> <b>2024:          Software Development internship</b><br>
+              XR4Industry, Wijchen
 
 > <b>2023:          Game Development minor</b><br>
-              HAN Arnhem
+              HAN University of Applied Sciences, Arnhem
+
+> <b>2022:          Webdev internship</b><br>
+              Webbureau Linku, Nijmegen
 
 > <b>2018 – 2020:   Computing Science</b><br>
-              Radboud University Nijmegen
+              Radboud University, Nijmegen
 
 > <b>2012 – 2018:   VWO Natuur en Techniek</b><br>
               Maaswaal College Veenseweg, Wijchen

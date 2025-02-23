@@ -7,7 +7,7 @@
 main:
   - title: "Projects"
     url: /projects/
-
+  
   - title: "Assets"
     url: /assets/    
     
@@ -15,7 +15,7 @@ main:
     url: /devlogs/   
     
   - title: "CV"
-    url: /cv/   
+    url: /cv/
     
   - title: "Contact"
     url: /contact/   

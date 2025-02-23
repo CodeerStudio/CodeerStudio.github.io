@@ -1,18 +1,27 @@
 ---
 layout: archive
-title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Below is an overview of projects that I have worked on/am working on.<br>
-<i>Click a project to view more information.</i><br><br>
+<!--
+<style>
+  h2 {
+    margin: 1.5em 0 0.5em;
+  }
+</style>
+-->
 
-<!--<i>Does not include projects from my software development degree.</i>-->
+<h2>Projects</h2>
+
+Below are mostly personal projects, for education & work experience see <a href="../cv">my CV</a>.<br>
+<i>Click a category to view projects.</i><br>
 
 {% for post in site.portfolio %}
+<div class="category_background" markdown="1">
   {% include archive-single.html %}
+</div>
 {% endfor %}
 
