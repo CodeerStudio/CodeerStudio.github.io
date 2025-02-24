@@ -20,6 +20,9 @@ _Walter Walnut environment inside_
 _Sci fi environment_
 <img src="/images/3D-art-environments/scifi-environments.png" width="932" height="472" alt="scifi environments">
 
+_Formbound environments_
+<img src="/images/3D-art-environments/formbound-environments.png" width="932" height="472" alt="formbound environments">
+
 <details markdown="1">
 
 <summary>More environments (click to expand)</summary>
