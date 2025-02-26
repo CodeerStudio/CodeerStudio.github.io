@@ -10,14 +10,6 @@ however I sometimes enjoy working on something new for a couple of days and chal
 
 <a href="https://codeer.itch.io/"><i class="fab fa-fw fa-itch-io icon-pad-right" aria-hidden="true"></i>View all jam games on itch.io</a>
 
-### Example project
-
-In 2023 I participated in the <a href="https://codeer.itch.io/untitled-coots-game">Ludwig game jam</a>. I have published the full project on my github:
-
-<a href="https://github.com/CodeerStudio/UntitledCootsGame/tree/main/Assets/Game"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>Ludwig game jam full project</a>
-
-<small><i>Please see [Code Snippets](/../portfolio/8_code_snippets) for more example code/projects.</i></small>
-
 ### Timelapses
 
 <i>Below are some timelapses from jams that I've done. Scroll down for projects that I didn't record a timelapse for.</i>
