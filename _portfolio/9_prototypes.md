@@ -10,6 +10,24 @@ Miscellaneous projects and prototypes that I think are cool and deserve a place 
 
 <div class="video-container">
 
+<div class="video-project"><iframe src="https://www.youtube.com/embed/8oIf735FZbQ" frameborder="0" allowfullscreen></iframe></div>
+
+<div class="video-description-right" markdown="1">
+
+## Welk Cijfer Moet Ik Halen (Dutch)
+
+App that allows students to calculate what grade they need for their next test.
+<a href="https://play.google.com/store/apps/details?id=com.T3Dmake.welkcijfermoetikhalen">100K+ downloads on Google Play</a> across The Netherlands.
+
+</div>
+
+</div>
+</div>
+
+<div class="project_background" markdown="1">
+
+<div class="video-container">
+
 <div class="video-project"><iframe src="https://www.youtube.com/embed/a5_7nICG_pA" frameborder="0" allowfullscreen></iframe></div>
 
 <div class="video-description-right" markdown="1">
@@ -163,27 +181,6 @@ One of my first procedural animation experiments. Clip blew up on [reddit](https
 ## Tunnel shooter prototype
 
 Out of many prototypes I think this was one of the coolest ideas. You run in a tunnel with third-person controls and shoot enemies along the way.
-
-</div>
-
-</div>
-</div>
-
-
-<div class="project_background" markdown="1">
-
-<div class="video-container">
-
-<div class="video-project"><iframe src="https://www.youtube.com/embed/8oIf735FZbQ" frameborder="0" allowfullscreen></iframe></div>
-
-<div class="video-description-right" markdown="1">
-
-## Welk Cijfer Moet Ik Halen
-
-App that allows students to calculate what grade they need for their next test.
-Used to have 100K+ downloads across The Netherlands.
-
-<small><a href="/../welk-cijfer-moet-ik-halen-privacy-policy">Read privacy policy (google play)</a></small>
 
 </div>
 
