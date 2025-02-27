@@ -55,6 +55,7 @@ Challenge is to find out what other developers intended to do with the game, and
 <i>Team size: 1 at a time, consecutively</i>
 
 <div class="video-container">
+    <div class="video-project"><iframe src="https://www.youtube.com/embed/HUl1YBfkX_U" frameborder="0" allowfullscreen></iframe></div>
     <div class="video-project"><iframe src="https://www.youtube.com/embed/f7yVXik-tqY" frameborder="0" allowfullscreen></iframe></div>
     <div class="video-project"><iframe src="https://www.youtube.com/embed/20q9E-DHlNI" frameborder="0" allowfullscreen></iframe></div>
     <div class="video-project"><iframe src="https://www.youtube.com/embed/n52zNCow-Vw" frameborder="0" allowfullscreen></iframe></div>
