@@ -178,10 +178,12 @@ Out of many prototypes I think this was one of the coolest ideas. You run in a t
 
 <div class="video-description-right" markdown="1">
 
-## Welk Cijfer Moet Ik Halen (Dutch)
+## Welk Cijfer Moet Ik Halen
 
 App that allows students to calculate what grade they need for their next test.
 Used to have 100K+ downloads across The Netherlands.
+
+<small><a href="/../welk-cijfer-moet-ik-halen-privacy-policy">Read privacy policy (google play)</a></small>
 
 </div>
 
